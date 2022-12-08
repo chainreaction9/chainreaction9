@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chainreaction9
 - 👀 I’m interested in developing apps in C++ and python, and also in designing webapps with graphics (openGL, webGL) in javascript, typescript, etc.
-- 🌱 I’m currently learning how to set up github and add my existing projects to github.
+- 🌱 I’m currently learning more about typescript.
 - 💞️ 
 - 📫 You can reach me by email at chain.reaction.server@gmail.com
 
