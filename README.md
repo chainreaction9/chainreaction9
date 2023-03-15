@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubhamoy!
-- 👀 I’m interested in developing apps in C++ and python, and also in designing webapps with graphics (openGL, webGL) in javascript, typescript, etc.
-- 👀 Since you are here, please do check out the webapp that hosts the popular andriod game [Chain Reaction](https://chainserver.pythonanywhere.com).
+- 👀 Interests: C++ app development and python, and GUI programming (openGL, webGL), javascript, typescript.
+- 👀 Since you are here, please do check out this webapp hosting the popular andriod game [Chain Reaction](https://chainserver.pythonanywhere.com).
 - 🌱 I’m currently learning more about AI, and soon going to defend my doctoral thesis (see [simulation](https://chainserver.pythonanywhere.com/hiv-dormancy)).
 
 <!---
